@@ -9,6 +9,8 @@
 
 Repository that gets python onto your system and is ideal for use as the foundation of virtual environments.
 
+==This repository has been deprecated; please use [uv](https://docs.astral.sh/uv/) instead.==
+
 <!-- BEGIN: Exclude Package -->
 ## Contents
 - [Overview](#overview)
